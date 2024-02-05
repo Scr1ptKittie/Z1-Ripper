@@ -23,4 +23,8 @@ Z1 Ripper is a Python script that monitors a specific directory for new avatar f
 1. Ensure Python 3.x is installed on your system.
 2. Install the required Python packages by running the following commands in your terminal:
 
+## Support
+
+-If theres any problems please join this discord and talk to @zolowoshere
 ```bash
+https://discord.gg/Sy9hswqBZD
